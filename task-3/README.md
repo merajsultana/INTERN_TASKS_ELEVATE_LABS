@@ -1,5 +1,5 @@
-📊 Task 3 – Dashboard Design | Data Analyst Internship
-This repository contains my submission for Task 3: Dashboard Design as part of the Data Analyst Internship at Elevate Labs.
+📊 Task 4 – Dashboard Design | Data Analyst Internship
+This repository contains my submission for Task 4: Dashboard Design as part of the Data Analyst Internship at Elevate Labs.
 
 🔧 Objective
 Design an interactive dashboard using Power BI to help business stakeholders analyze product performance, customer feedback, and sales trends — enabling data-driven decision making.
