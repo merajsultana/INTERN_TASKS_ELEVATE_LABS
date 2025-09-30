@@ -1,4 +1,4 @@
-# Task 6 – Sales Trend Analysis (Advanced)
+# Task 6 – Sales Trend Analysis Using Aggregations
 
 ## 📌 Overview
 This project is part of my **Data Analyst Internship** at **Elevate Labs**.  
