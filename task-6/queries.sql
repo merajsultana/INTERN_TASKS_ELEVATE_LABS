@@ -1,5 +1,5 @@
 -- ==========================================
--- SALES TREND ANALYSIS - ADVANCED VERSION
+-- SALES TREND ANALYSIS - Using Aggregations
 -- Dataset: online_sales
 -- ==========================================
 
@@ -93,3 +93,4 @@ FROM (
 ) AS monthly_data
 GROUP BY MONTH_ID
 ORDER BY MONTH_ID;
+
