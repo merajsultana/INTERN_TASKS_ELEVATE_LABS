@@ -6,7 +6,7 @@ This project connects **Python** with a **SQLite database** to pull simple sales
 ---
 
 ## ⚙️ Tools Used
-- Python (3.8+)
+- Python 
 - SQLite (built into Python, no installation needed)
 - Pandas
 - Matplotlib
